@@ -1,0 +1,7 @@
+Files.Read
+Files.Read.All
+Files.ReadWrite
+Files.ReadWrite.All
+offline_access
+openid
+profile

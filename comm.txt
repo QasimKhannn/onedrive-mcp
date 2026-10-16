@@ -1,0 +1,1 @@
+gcloud run deploy onedrive-mcp --project=contact-center-441718 --region=us-central1 --source=. --port=8080 --allow-unauthenticated
